@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="529c5562-c242-4b1e-9ce5-70cdddb53180" name="Default Changelist" comment="">
+    <list default="true" id="8076a2ef-8924-496a-a801-8786d7859276" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Assignment 5/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Assignment 6/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Assignment 6/Main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Assignment 7/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Assignment 7/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment 5/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" afterDir="false" />
@@ -20,15 +20,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Assignment_4$Main.coverage" NAME="Main Coverage Results" MODIFIED="1549599485034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_8$Main.coverage" NAME="Main Coverage Results" MODIFIED="1551908638662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state relative-caret-position="90">
+              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -42,6 +42,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MIN_</find>
+      <find>MAX_NAME_LEN</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -53,10 +59,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
     <option name="y" value="23" />
-    <option name="width" value="927" />
-    <option name="height" value="957" />
+    <option name="width" value="936" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -64,8 +69,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment 8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment 8" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,7 +102,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Assignment 4" />
+      <module name="Assignment 8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -109,7 +124,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Assignment 4" />
+      <module name="Assignment 8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -136,40 +151,37 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="529c5562-c242-4b1e-9ce5-70cdddb53180" name="Default Changelist" comment="" />
-      <created>1549332358605</created>
+      <changelist id="8076a2ef-8924-496a-a801-8786d7859276" name="Default Changelist" comment="" />
+      <created>1551747995470</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549332358605</updated>
-      <workItem from="1549332361847" duration="40000" />
-      <workItem from="1549332412608" duration="5777000" />
-      <workItem from="1549477021836" duration="2234000" />
-      <workItem from="1549599426701" duration="445000" />
-      <workItem from="1549943798573" duration="3443000" />
-      <workItem from="1550685858073" duration="61000" />
-      <workItem from="1551768866706" duration="446000" />
+      <updated>1551747995470</updated>
+      <workItem from="1551748019319" duration="9170000" />
+      <workItem from="1551902673631" duration="5958000" />
+      <workItem from="1552330419145" duration="579000" />
+      <workItem from="1552376542712" duration="168000" />
+      <workItem from="1552452605663" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12446000" />
+    <option name="totallyTimeSpent" value="15877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="23" width="927" height="957" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="936" height="958" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28926554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24049217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33140877" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.34064665" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -185,10 +197,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1420481299/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        <state relative-caret-position="90">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>

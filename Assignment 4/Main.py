@@ -8,8 +8,8 @@ stamps, or use 9 stamps to get one free frozen yogurt. The cash register
 checks for invalid inputs for the menu options and the quantities.
 """
 
-num_stamps = 0; # Number of stamps the user has
-STAMPS_FOR_FREE_YOGURT = 9; # Number of stamps for free yogurt
+num_stamps = 0 # Number of stamps the user has
+STAMPS_FOR_FREE_YOGURT = 9 # Number of stamps for free yogurt
 INDENT = "   " # Indentation of 3 spaces
 
 # Initialize boolean constants as false to enter while loops
